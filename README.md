@@ -1,16 +1,19 @@
 ## Hi there 👋
 
 <!--
-**LucasW-BYU/LucasW-BYU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Lucas, an international student studying data science at BYU! It's my senior year, and I'm excited about my journey ahead in data science, AI, and project management. 
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- Java
+- SQL
+- Data Science and Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Current Projects
+- Chess Game in Java
+- Data Science Blog focusing on SQL window functions
+
+## Connect with Me
+- [My Blog](https://tiredlizard.github.io/a-typical-blog/blog/SCE/)
+
 -->
