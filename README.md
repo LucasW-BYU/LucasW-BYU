@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 I'm Lucas, an international student studying data science at BYU! It's my senior year, and I'm excited about my journey ahead in data science, AI, and project management. 
 
 ## Skills
@@ -16,4 +15,4 @@ I'm Lucas, an international student studying data science at BYU! It's my senior
 ## Connect with Me
 - [My Blog](https://tiredlizard.github.io/a-typical-blog/blog/SCE/)
 
--->
+
